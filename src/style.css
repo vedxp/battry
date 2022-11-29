@@ -20,15 +20,15 @@ body {
   0% {opacity: 0;}
   100% {opacity: 1;}
 }
-.shrink { 
-transition: all .2s ease-in-out; 
+.shrink {
+transition: all .2s ease-in-out;
 }
-.shrink:hover { 
-transform: scale(0.98); 
+.shrink:hover {
+transform: scale(0.98);
 }
-.grow { 
-transition: all .2s ease-in-out; 
+.grow {
+transition: all .2s ease-in-out;
 }
-.grow:hover { 
-transform: scale(1.01); 
+.grow:hover {
+transform: scale(1.01);
 }

@@ -4,11 +4,11 @@
 
 @font-face {
     font-family: "MonoLisa";
-    src: url("./assets/fonts/MonoLisa-Regular.woff2");
+    src: url("./assets/fonts/MonoLisa-Regular.woff2"), format("woff2");
 }
 @font-face {
     font-family: "MonoLisaBold";
-    src: url("./assets/fonts/MonoLisa-Bold.woff2");
+    src: url("./assets/fonts/MonoLisa-Bold.woff2"), format("woff2");
 }
 body {
   @apply bg-background text-text text-sm slg:text-base font-normal selection:bg-button relative w-full flex flex-col items-center;

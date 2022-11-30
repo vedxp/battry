@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-nav px-6 py-2 slg:py-6 slg:px-12 flex items-center fixed w-full">
+  <nav class="bg-nav px-6 py-2 slg:py-4 slg:px-12 flex items-center fixed w-full">
     <!--Logo-->
     <div class="grow">
       <svg fill="none" stroke="currentColor" class="w-6 h-6 slg:w-9 slg:h-9 lg:w-12 lg:h-12" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>

@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "vite --open",
-    "build": "vite build",
+    "build": "vite-ssg build",
     "preview": "vite preview --open"
   },
   "dependencies": {
@@ -9,9 +9,12 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",
+    "@vueuse/head": "^1.0.18",
     "autoprefixer": "^10.4.13",
+    "critters": "^0.0.16",
     "postcss": "^8.4.19",
     "tailwindcss": "^3.2.4",
-    "vite": "^3.2.3"
+    "vite": "^3.2.3",
+    "vite-ssg": "^0.22.0"
   }
 }

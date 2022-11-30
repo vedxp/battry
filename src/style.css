@@ -11,7 +11,7 @@
     src: url("./assets/fonts/MonoLisa-Bold.woff2") format("woff2");
 }
 body {
-  @apply bg-background text-text text-sm slg:text-base font-normal selection:bg-button relative w-full flex flex-col items-center;
+  @apply bg-background text-text text-sm slg:text-base font-normal selection:bg-button w-full flex flex-col items-center;
   animation: fadein ease 2s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;

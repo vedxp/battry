@@ -12,6 +12,8 @@
 }
 body {
   @apply bg-background text-text text-sm slg:text-base font-normal selection:bg-button relative w-full flex flex-col items-center;
+}
+body {
   animation: fadein ease 2s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;

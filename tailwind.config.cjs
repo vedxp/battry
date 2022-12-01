@@ -1,6 +1,7 @@
 module.exports = {
   content: [
-    "./src/**/*.vue",
+    "./src/*.vue",
+    "./src/components/*.vue"
     ],
   theme: {
     extend: {
@@ -13,7 +14,7 @@ module.exports = {
       },
       colors: {
         border: "hsl(0, 0%, 1%)",
-        nav: "hsla(0, 0%, 10%, 0.5)",
+        nav: "hsla(0, 0%, 10%, 0.95)",
         background: "hsl(0, 0%, 10%)",
         card: "hsl(0, 0%, 12%)",
         button: "hsl(0, 0%, 15%)",

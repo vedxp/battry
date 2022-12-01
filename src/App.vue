@@ -14,3 +14,4 @@ import Nav from "./components/Nav.vue";
 import Hero from "./components/Hero.vue";
 import Content from "./components/Content.vue";
 import Footer from "./components/Footer.vue";
+</script>

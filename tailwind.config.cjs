@@ -1,8 +1,5 @@
 module.exports = {
-  content: [
-    "./src/*.vue",
-    "./src/components/*.vue"
-    ],
+  content: ["./src/*.vue", "./src/components/*.vue"],
   theme: {
     extend: {
       screens: {
@@ -27,4 +24,4 @@ module.exports = {
       },
     },
   },
-}
+};

@@ -20,12 +20,31 @@
   <Card>Be yourself, because an original is much more than a copy.</Card>
   <Card>Loyal partners are hard to find, because they are busy in building their carrier.</Card>
   <Card>Be thankful for what you have, you'll end up having more; if you concentrate on what you don't have, you'll never ever have enough.</Card>
-    <!--20--> <!--
+    <!--20-->
+  <Card>You don't value a moment, until it becomes memory.</Card>
+  <Card>Take a deep breath and remember; it's just a bad day, not a bad life.</Card>
+  <Card>Your money is just a piece of paper, the real richness is seen in the way how you treat people.</Card>
+  <Card>Once you have cantrol over your mind, nothing is impossible; you are much more than you think.</Card>
+  <Card>If you don't take risks, then you'll always work for someone who does.</Card>
+  <Card>Happiness is something you don't find, you create it.</Card>
+  <Card>Winners never quit, and quitters never win.</Card>
+  <Card>If you tell the truth, you don't have to remember anything.</Card>
+  <Card>Three best teachers of life: broken heart, empty pocket and failure.</Card>
+  <Card>If the plan didn't work, change the plan not the goal.</Card>
+  <!--30-->
+  <!--
   <Card></Card>
   <Card></Card>
   <Card></Card>
   <Card></Card>
-  <Card></Card> -->
+  <Card></Card>
+  <Card></Card>
+  <Card></Card>
+  <Card></Card>
+  <Card></Card>
+  <Card></Card>
+  -->
+  <!--40-->
 </template>
 
 <script setup>
